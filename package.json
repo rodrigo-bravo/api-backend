@@ -1,0 +1,22 @@
+{
+    "name": "booklog",
+    "version": "1.0.0",
+    "description": "System where users can login and personalize their book lists.",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon main.js"
+    },
+    "author": "Rodrigo Bravo",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.1.7",
+        "mongoose-type-email": "^1.1.2",
+        "nodemon": "^2.0.15"
+    }
+}
