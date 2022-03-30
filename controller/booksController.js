@@ -1,7 +1,7 @@
 const userModel = require('../model/userModel')
 
 /**
- * nfunction to get all books of a user
+ * function to get all books of a user
  * @param {*} req 
  * @param {*} res 
  */
