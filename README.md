@@ -9,6 +9,7 @@ A database model/backend for a user directory which uses JWT to authenticate use
 ## Object Data Modeling in MongoDB
 This application uses Mongoose, a MongoDB object modeling tool. With this, the user model is created out of the Schema interface, which defines the structure of the documents in the library collection.
 
+## Getting Started
 ```
 npm install
 npm start
