@@ -1,5 +1,5 @@
 # Backend Application
-A database model/backend for a user directory and uses JWT to authenticate users using **Javascript**  **MongoDB**, **Express**, and **Node.js**. 
+A database model/backend for a user directory which uses JWT to authenticate users using **Javascript**  **MongoDB**, **Express**, and **Node.js**. 
 - CRUD operations
 - Search Files
 - Mongoose Schema
