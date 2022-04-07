@@ -1,5 +1,6 @@
 # Backend Application
-A backend model for a user directory which uses JWT to authenticate users using **Javascript**,  **MongoDB**, **Express**, and **Node.js**. In context, this model allows users to store, search, add, edit, filter, and delete book descriptions.
+A backend model to provide a REST API that the front-end can access using HTTP network calls, in order to access the database. Features middleware to handle the routing of requests to the right functions(and endpoints) and JSON Web Tokens to  **Javascript**,  **MongoDB**, **Express**, and **Node.js**.
+
 - CRUD operations
 - Search Files
 - Mongoose Schema
