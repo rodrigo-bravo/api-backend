@@ -5,7 +5,7 @@ A database model/backend for a user directory which uses JWT to authenticate use
 - Mongoose Schema
 - bycrpt library
 - JSON Web Tokens
-- Test on Postman
+- Tested via Postman
 
 Express will be used for the middleware to create various CRUD endpoints, as well as make changes to the request and the response objects. Also, middleware functions can end the request-response cycle and then call the next middleware in the stack. Mongoose for managing data in MongoDB using various queries. More information on Mongoose below:
 
