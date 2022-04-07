@@ -1,5 +1,5 @@
 # Back-end API development
-A backend model to provide a REST API that the front-end can access using HTTP network calls, in order to access the database. Development features middleware to handle the routing of requests to the right functions (and endpoints) and JSON Web Tokens within cookies to authenticate users for API access. Done with **Javascript**,  **MongoDB**, **Express**, and **Node.js**.
+A backend model to provide a REST API that the front-end can access using HTTP network calls, in order to access the database. Development features middleware functions to handle the routing of requests to the right functions (and endpoints) and JSON Web Tokens within cookies to authenticate users for API access. Done with **Javascript**,  **MongoDB**, **Express**, and **Node.js**.
 
 - CRUD operations
 - Search Files
